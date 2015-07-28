@@ -2,7 +2,7 @@
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 768
 
-# Inherit some common CM stuff.
+# Inherit some common Hazy stuff.
 $(call inherit-product, vendor/hazy/configs/common_full_phone.mk)
 
 # Enhanced NFC
